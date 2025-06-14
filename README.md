@@ -7,7 +7,7 @@ To build an interactive Excel dashboard that visualizes and analyzes bank loan a
 
  📚 Dataset Used
 
-
+https://github.com/Thanushreeem/Bank_loan_analysis-dashboard/blob/main/financial_loan.csv
 
 📈 Key Performance Indicators (KPIs)
 Summary Dashboard KPIs:
@@ -70,5 +70,18 @@ Microsoft Excel (Core Tool)
 * Employment length significantly influences loan application volume (10+ years).
 * States like California and Texas have higher loan application rates.
 * 60-month term loans are more common than 36-month ones.
+
+Final Result :
+
+
+
+![summary](https://github.com/user-attachments/assets/803de879-fe65-4622-8c2b-cf40af6d72de)
+
+
+
+![overview](https://github.com/user-attachments/assets/c5c9678e-8228-444d-ac82-58f88553ff7f)
+
+
+
 
 
